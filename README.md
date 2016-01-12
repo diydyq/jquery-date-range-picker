@@ -8,9 +8,6 @@
 ![Snapshot1][1]
 
 
-[1]: http://www.github.com/diydyq/angular-daterange/blob/master/daterange.png?raw=true
-
-
 
 v0.0.7
 
@@ -304,3 +301,6 @@ $(dom).data('dateRangePicker')
 
 ###LICENSE###
 This date range picker plugin is under MIT LICENSE
+
+
+[1]: http://www.github.com/diydyq/angular-daterange/blob/master/daterange.png?raw=true
