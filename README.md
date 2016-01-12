@@ -5,7 +5,7 @@
 
 ## Snapshot
 
-![Snapshot1][1]
+![Snapshot1](http://www.github.com/diydyq/angular-daterange/blob/master/daterange.png?raw=true)
 
 
 
@@ -303,4 +303,3 @@ $(dom).data('dateRangePicker')
 This date range picker plugin is under MIT LICENSE
 
 
-[1]: http://www.github.com/diydyq/angular-daterange/blob/master/daterange.png?raw=true
