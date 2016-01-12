@@ -5,6 +5,12 @@
 
 ## Snapshot
 
+[Documentation](http://jszen.com/jquery-date-range-picker-plugin.4.html)
+
+[Demo](http://longbill.github.io/jquery-date-range-picker/)
+
+![screenshot](https://raw.github.com/longbill/jquery-date-range-picker/master/preview.jpg)
+
 ![Snapshot1](http://www.github.com/diydyq/angular-daterange/blob/master/daterange.png?raw=true)
 
 
