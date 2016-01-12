@@ -1,5 +1,17 @@
 #jQuery Date Range Picker Plugin#
 
+## My update all are in directory: jquery.daterangepicker
+
+
+## Snapshot
+
+![Snapshot1][1]
+
+
+[1]: http://www.github.com/diydyq/angular-daterange/blob/master/daterange.png?raw=true
+
+
+
 v0.0.7
 
 jQuery Date Range Picker is a jQuery plugin that allows user to select a date range.
